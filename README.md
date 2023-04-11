@@ -9,7 +9,7 @@
 
 * `cd BEOKEN-HEART`
 
-* `python BEOKEN-HEART`
+* `python BEOKEN-HEART.py`
 
 
 ___This Tool is Free Enjoy Dear User.___</br>
